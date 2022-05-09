@@ -35,4 +35,31 @@ Causal Inference of Ruling Party on Emissions shows Republican states tend to ha
 
 ## Predictive Modeling:
 
-Predictive Modeling can be found <a href="https://github.com/nthammadi-uncc/MultiEffects_AirPollutants/blob/main/Notebooks/AP_Multi_Effects_Model_for_Air_Pollutant_Analysis.ipynb">here</a>
+### Linear Regression with random effects(Frequentist approach)
+
+<img width="451" alt="Screen Shot 2022-05-09 at 11 23 38 AM" src="https://user-images.githubusercontent.com/77910160/167443537-637b0359-0833-4fb3-aff2-39c0afbf6675.png">
+
+![image](https://user-images.githubusercontent.com/77910160/167443584-f0a05a23-3254-4cd6-8819-7bb1f6840cbb.png)
+
+### Mixed Effects Model with random effects(varying intercept) and partial pooling(Bayesian approach)
+
+<img width="665" alt="Screen Shot 2022-05-09 at 11 26 23 AM" src="https://user-images.githubusercontent.com/77910160/167443708-dc26c0a1-74af-4682-bddf-6309e4f49743.png">
+
+![image](https://user-images.githubusercontent.com/77910160/167443785-248d8bd6-a4c8-46df-a1ae-8caa9924b200.png) ![image](https://user-images.githubusercontent.com/77910160/167443850-ad398166-8fa6-4ed5-88d9-dfe57e4b02a3.png)
+
+![image](https://user-images.githubusercontent.com/77910160/167444004-246636fc-1db9-4db2-89c6-01129495858d.png)
+
+### Mixed Effects with Varying effects on Ruling Party
+
+<img width="666" alt="Screen Shot 2022-05-09 at 11 30 20 AM" src="https://user-images.githubusercontent.com/77910160/167444502-b67599bb-aa12-4ab9-a326-f388991b67d5.png"> 
+
+![image](https://user-images.githubusercontent.com/77910160/167444537-44578254-1b5c-4351-a59d-901ea13537c3.png)
+
+### Additional variables to Mixed Effects with Varying effects on Ruling Party
+
+<img width="662" alt="Screen Shot 2022-05-09 at 11 32 13 AM" src="https://user-images.githubusercontent.com/77910160/167444783-1f643bdb-601d-4fc2-b8e6-c56aa99302a2.png">
+
+![image](https://user-images.githubusercontent.com/77910160/167444830-d14c52f7-78cd-47d1-96ae-4e1cfdc3488b.png)
+
+
+Predictive Modeling notebook can be found <a href="https://github.com/nthammadi-uncc/MultiEffects_AirPollutants/blob/main/Notebooks/AP_Multi_Effects_Model_for_Air_Pollutant_Analysis.ipynb">here</a>
