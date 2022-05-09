@@ -63,3 +63,7 @@ Causal Inference of Ruling Party on Emissions shows Republican states tend to ha
 
 
 Predictive Modeling notebook can be found <a href="https://github.com/nthammadi-uncc/MultiEffects_AirPollutants/blob/main/Notebooks/AP_Multi_Effects_Model_for_Air_Pollutant_Analysis.ipynb">here</a>
+
+## Resources:
+
+- https://www.andrewheiss.com/blog/2021/12/01/multilevel-models-panel-data-guide/
