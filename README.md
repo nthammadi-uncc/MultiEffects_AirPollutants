@@ -3,7 +3,7 @@ This project is created as part of DSBA-6010: Bayesian Statistics class. It obse
 
 ## Goal:
 The goal of this project is to find causal inference between Electricity Generation, Consumption and Ruling Government with the Carbon dioxide emissions across different states of America.
-A predictive model is created using these inferences.
+Additionally, using causal inference as a guideline, this project aims to choose the best predictive model using partial pooling and multi-effects models.
 
 ## Data:
 The data of this project is taken from https://github.com/nthammadi-uncc/electricity_usage_analysis which is originally from https://www.eia.gov/electricity/data/state/
